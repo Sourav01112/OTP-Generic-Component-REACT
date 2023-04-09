@@ -4,18 +4,11 @@
 ```
 // install node_modules
 npm install --engine-strict
-
-// run locally
-npm run start
-
-// test locally
-npm run test
 ```
 
 ## Boilerplate
 
 - src
-  - `__tests__`
   - Components
     - Pin.jsx
     - PinTab.jsx
