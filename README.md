@@ -5,9 +5,7 @@
 // install node_modules
 npm install --engine-strict
 ```
-
-## Boilerplate
-
+## Folder Structure
 - src
   - Components
     - Pin.jsx
@@ -18,7 +16,7 @@ npm install --engine-strict
 
 #### OTP Component
 
-Create a generic OTP component. The number of input boxes and lenght of text per input box can be controlled.
+A generic OTP component. The number of input boxes and lenght of text per input box can be controlled.
 
 - Pin.jsx
 

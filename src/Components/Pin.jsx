@@ -12,8 +12,6 @@ export const Pin = forwardRef(({ maxChar, onChangeFunction, onBackSpaceFn }, ref
     }
   }
 
-
-
   return (
     <input data-testid="pin-input"
       maxLength={maxChar}
